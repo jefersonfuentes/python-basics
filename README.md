@@ -1,3 +1,3 @@
 # python-basics
 
-Learning Python basics with exercices.
+Learning Python basics with exercices. 
